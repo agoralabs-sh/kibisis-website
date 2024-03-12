@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_agoralabs_sh_kibisis_website=self.webpackChunk_agoralabs_sh_kibisis_website||[]).push([[3682],{877:s=>{s.exports=JSON.parse('{"label":"use-wallet","permalink":"/blog/tags/use-wallet","allTagsPath":"/blog/tags","count":1}')}}]);

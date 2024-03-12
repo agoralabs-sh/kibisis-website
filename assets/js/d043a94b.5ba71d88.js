@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_agoralabs_sh_kibisis_website=self.webpackChunk_agoralabs_sh_kibisis_website||[]).push([[6975],{6634:s=>{s.exports=JSON.parse('{"label":"account","permalink":"/blog/tags/account","allTagsPath":"/blog/tags","count":3}')}}]);
