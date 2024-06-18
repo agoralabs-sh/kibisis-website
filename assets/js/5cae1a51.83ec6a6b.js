@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_agoralabs_sh_kibisis_website=self.webpackChunk_agoralabs_sh_kibisis_website||[]).push([[2112],{1726:s=>{s.exports=JSON.parse('{"label":"avm-web-provider","permalink":"/blog/tags/avm-web-provider","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_agoralabs_sh_kibisis_website=self.webpackChunk_agoralabs_sh_kibisis_website||[]).push([[1],{2638:s=>{s.exports=JSON.parse('{"permalink":"/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":12,"previousPage":"/blog","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

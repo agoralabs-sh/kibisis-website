@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_agoralabs_sh_kibisis_website=self.webpackChunk_agoralabs_sh_kibisis_website||[]).push([[500],{1672:s=>{s.exports=JSON.parse('{"label":"nft","permalink":"/blog/tags/nft","allTagsPath":"/blog/tags","count":1}')}}]);
